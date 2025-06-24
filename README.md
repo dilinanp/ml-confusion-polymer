@@ -60,3 +60,13 @@ pip install -r requirements.txt
 
 > This notebook is part of the supporting materials for our JCTC paper and is intended for academic use. Please cite the paper if you use or adapt this code.
 
+---
+
+### Code Authors
+
+Developed by **Dilina Perera** and **Samuel McAllister**.
+
+For questions, please contact:
+- Dilina Perera – `dilina.perera [at] ung.edu`
+- Samuel McAllister – `smcallis [at] uab.edu` 
+
