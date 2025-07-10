@@ -3,7 +3,7 @@
 This repository contains the analysis code and processed data files necessary to reproduce the main plots in the paper:
 
 **"Confusion-driven machine learning of structural phases of a flexible, magnetic Stockmayer polymer"**  
-Dilina Perera, Samuel McAllister, Joan Josep Cerdà, Thomas Vogel, *J. Chem. Theory Comput.* (2025)  
+Dilina Perera, Samuel McAllister, Joan Josep Cerdà, and Thomas Vogel, *J. Chem. Theory Comput.* (2025)  
 [https://doi.org/10.1021/acs.jctc.5c00381](https://doi.org/10.1021/acs.jctc.5c00381) 
 
 ---
